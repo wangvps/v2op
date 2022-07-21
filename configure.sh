@@ -5,7 +5,7 @@
 cat << EOF > /etc/v2ray/config.json
 {
     "inbounds": [{
-        "port": 6899,
+        "port": 8080,
         "protocol": "vmess",
         "settings": {
             "clients": [{
