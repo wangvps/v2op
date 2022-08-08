@@ -1,0 +1,7 @@
+反代：
+{
+  "version": 2,
+  "routes": [
+      {"src": "/(.*)","dest": "https://www.xxx.com/$1"}
+  ]
+}
