@@ -19,6 +19,15 @@
 ```vb
 dokcer.io/wxr666/v2ray-openshift:latest
 ```
+4. 打开network界面，并设置端口映射为
+
+```shell
+   port:6899
+   protocol :http
+```
+
+并将网络端口公布与公网上
+
 
 
 
