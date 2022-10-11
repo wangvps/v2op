@@ -28,10 +28,10 @@ dokcer.io/wxr666/v2ray-openshift:latest
 
 并将网络端口公布与公网上
 
-NetWork配置
+NetWork配置图
 
 
-
+![dns](https://raw.githubusercontent.com/wangvps/v2op/main/png/Screenshot_2022-10-11-21-49-25-466_com.android.chrome.jpg)
 
 
 
