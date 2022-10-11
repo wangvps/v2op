@@ -24,7 +24,7 @@ dokcer.io/wxr666/v2ray-openshift:latest
 ```shell
    port:6899
    protocol :http
-``
+```
 
 
 
