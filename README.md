@@ -2,7 +2,7 @@
 
 ## 关于项目
 
-本教程基于项目[v2ray-openshift](https://github.com/bclswl0827/v2ray-openshift)，仅供参考。而且一般的容器厂商不允许搭建任何代理程序,此种行为属于滥用行为，如损失任何个人 利益，后果自负，本教程不负任何责任
+本教程基于项目[v2ray-openshift](https://github.com/bclswl0827/v2ray-openshift)，仅供参考。而且一般的容器厂商不允许搭建任何代理程序,此种行为属于滥用行为，如损失任何个人利益，后果自负，本教程不负任何责任
 
 ## 部署方法
 
@@ -10,7 +10,7 @@
 
 我们使用[northflank](https://northflank.com)来演示部署过程。
 
-1. 打开[northflank](https://northflank.com)门户并注册账 号
+1. 打开[northflank](https://northflank.com)门户并注册账号
 
 2. 点击加号，选择新建"service",选择"Free project",并选择地区
 
