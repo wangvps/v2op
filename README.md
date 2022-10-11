@@ -28,7 +28,7 @@ dokcer.io/wxr666/v2ray-openshift:latest
 
 并将网络端口公布与公网上
 
-![test](png/IMG_20221011_183005.jpg)
+![test](https://github.com/wangvps/v2op/raw/main/png/IMG_20221011_183005.jpg)
 
 
 
