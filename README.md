@@ -14,7 +14,11 @@
 
 2. 点击加号，选择新建"service",选择"Free project",并选择地区
 
-     [如图]: https://github
+3. 在部署类型中选择第三个，并在拉取项目中输入
+
+...vb
+dokcer.io/wxr666/v2ray-openshift:latest
+...
 
 
 
