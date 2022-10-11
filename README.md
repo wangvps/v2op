@@ -43,9 +43,12 @@ NetWork配置图
 2. 修改在configure.sh中的默认配置(可以保持原样)
 
 3. 与上述教程一样创建service,构建类型选择第一种，如图:
+
 ![service](https://raw.githubusercontent.com/wangvps/v2op/main/png/IMG_20221011_221546.jpg)
 
+
 4. 配置NetWork,如图:
+
 ![network](https://raw.githubusercontent.com/wangvps/v2op/main/png/Screenshot_2022-10-11-18-28-12-325_com.android.chrome.jpg)
 
 5. 部署成功后访问分配域名路径，查看是否有Bad Request字样，如出现，则部署成功
