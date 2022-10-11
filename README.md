@@ -28,6 +28,8 @@ dokcer.io/wxr666/v2ray-openshift:latest
 
 并将网络端口公布与公网上
 
+[test]: ./png/
+
 
 
 
