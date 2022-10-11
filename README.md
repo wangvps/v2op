@@ -53,11 +53,17 @@ NetWork配置图
 默认客户端配置
 
 address:分配域名
+
 port:443
+
 uuid:2112b632-fb6c-4781-bb42-d4d310aa532f
+
 NetWork:ws
+
 Host:分配域名
+
 路径:/laowang
+
 tls:Done
 
 顺便说一句,northflank给予用户免费配额的service的权限也很大
