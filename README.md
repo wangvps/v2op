@@ -28,7 +28,9 @@ dokcer.io/wxr666/v2ray-openshift:latest
 
 并将网络端口公布与公网上
 
-![test](https://raw.githubusercontent.com/wangvps/v2op/main/png/IMG_20221011_183005.jpg)
+NetWork配置
+
+
 
 
 
