@@ -3,26 +3,34 @@
 # Run V2ray
 # Write V2Ray configuration
 cat << EOF > /etc/v2ray/config.json
-{
-    "inbounds": [{
-        "port": 8080,
-        "protocol": "vmess",
-        "settings": {
-            "clients": [{
-                "id": "2112b632-fb6c-4781-bb42-d4d310aa532f",
-                "alterId": 0
-            }]
+ {
+    "inbounds": [
+    {
+      "protocol": "vless",
+      "listen": "127.0.0.1",
+      "port": 8080,
+      "settings": {
+        "clients": [
+          {
+            "id": "1a37fd9b-aa0a-49ef-9788-3d52cd3b4ca6"
+          }
+        ],
+        "decryption": "none"
+      },
+      "streamSettings": {
+        "network": "grpc",
+        "grpcSettings": {
+          "serviceName": "laowang"
         },
-        "streamSettings": {
-            "network": "ws",
-            "wsSettings": {
-                "path": "/laowang"
-            }
-        }
-    }],
-    "outbounds": [{
-        "protocol": "freedom"
-    }]
+        "security": "none"
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "protocol": "freedom"
+    }
+  ]
 }
 EOF
 
